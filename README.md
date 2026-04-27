@@ -3,8 +3,8 @@
 A simple and creative web application to manage and showcase books.  
 Users can add books, view them, and delete them dynamically.
 
-## 🚀 Live Demo
-https://lnkd.in/gmdYFjhr
+## 🚀 Project Link
+[View Project](https://lnkd.in/gmdYFjhr)
 
 ## 🛠️ Tech Stack
 - HTML
@@ -20,9 +20,10 @@ https://lnkd.in/gmdYFjhr
 ## 📂 Project Structure
 
 Booksky/
-│── index.html        # Main webpage
-│── style.css         # Styling
-│── script.js         # Functionality
+│
+├── index.html    # Main webpage
+├── style.css     # Styling
+├── script.js     # Functionality
 
 
 ## ⚙️ How It Works
