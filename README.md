@@ -19,12 +19,13 @@ Users can add books, view them, and delete them dynamically.
 
 ## 📂 Project Structure
 
+```
 Booksky/
 │
 ├── index.html    # Main webpage
 ├── style.css     # Styling
-├── script.js     # Functionality
-
+└── script.js     # Functionality
+```
 
 ## ⚙️ How It Works
 - User clicks **Add Book**
